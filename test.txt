@@ -1,1 +1,1 @@
-double func(){}
+int func(){}
